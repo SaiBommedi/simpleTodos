@@ -1,0 +1,17 @@
+.todoitem-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+}
+.title {
+  font-family: roboto;
+  font-weight: bold;
+}
+.button {
+  background-color: white;
+  border-radius: 5px;
+  border-color: #ff0b37;
+  color: #ff0b37;
+  height: 30px;
+}
